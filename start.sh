@@ -1,3 +1,3 @@
 #!/bin/bash
-cd bedrock
+cd ..
 LD_LIBRARY_PATH=. ./bedrock_server
